@@ -1,0 +1,30 @@
+_repo: Az-angol-irodalom-tortenete_72570
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Voinovich, Géza
+    alias: Voinovich, Geza
+    birthdate: 1877
+    deathdate: 1952
+    gutenberg_agent_id: '56673'
+    url: http://www.gutenberg.org/2009/agents/56673
+    wikipedia: https://hu.wikipedia.org/wiki/Voinovich_G%C3%A9za
+description: ''
+gutenberg_issued: '2023-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72570'
+language: hu
+pgterms:marc905: 20231230061623voinovich
+pgterms:marc906: '1926'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Library
+  of the Hungarian Academy of Sciences
+publication_note: '  $aBudapest :$bFranklin-Társulat, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Az angol irodalom története
+url: http://www.gutenberg.org/ebooks/72570
